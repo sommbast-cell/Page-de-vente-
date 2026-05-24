@@ -1,0 +1,58 @@
+{
+  "site": {
+    "name": "Epicurios Wine : Le Club",
+    "shortName": "Epicurios Wine",
+    "tagline": "Sélection de vins, vente privée groupée",
+    "description": "Vente privée de vins du 27 mai au 5 juin 2026. Sélection d'exception, prix négociés, livraison locale en vallée de l'Arve.",
+    "city": "Bonneville, Haute-Savoie",
+    "email": "agence.epicurios@outlook.com",
+    "phone": "06 52 74 75 63",
+    "whatsapp": "33652747563",
+    "siret": "À COMPLÉTER",
+    "address": "À COMPLÉTER (adresse du dépôt à Bonneville)",
+    "instagram": "",
+    "facebook": ""
+  },
+  "sale": {
+    "startDate": "2026-05-20T00:00:00+02:00",
+    "endDate": "2026-06-05T19:00:00+02:00",
+    "validationDelay": "après la clôture de la vente (5 juin 2026)",
+    "deliveryDelay": "5 à 10 jours ouvrés à partir du 7 juin 2026",
+    "fullExplanation": "Une fois la vente terminée le 5 juin 2026, une validation sera effectuée sous 48h. Tous les produits hors stock seront remboursés ou se verront proposer une alternative équivalente. Le délai de livraison sera compris entre 5 et 10 jours ouvrés à partir du 7 juin 2026."
+  },
+  "shipping": {
+    "currency": "EUR",
+    "options": [
+      {
+        "id": "pickup",
+        "label": "Retrait au dépôt (Bonneville)",
+        "price": 0,
+        "description": "Adresse exacte communiquée après commande. Sur rendez-vous."
+      },
+      {
+        "id": "vallee-arve",
+        "label": "Livraison Vallée de l'Arve",
+        "price": 5,
+        "description": "Cluses, Thyez, Marnaz, Scionzier, Marignier, Vougy, Ayze, Bonneville, Saint-Pierre-en-Faucigny, La Roche-sur-Foron"
+      },
+      {
+        "id": "haute-savoie",
+        "label": "Livraison Haute-Savoie (autres communes)",
+        "price": 15,
+        "description": "Toute commune de Haute-Savoie hors Vallée de l'Arve"
+      },
+      {
+        "id": "autre",
+        "label": "Autre secteur, devis sur demande",
+        "price": 0,
+        "description": "Pour toute commande hors Haute-Savoie, contactez-nous pour un devis personnalisé.",
+        "quoteOnly": true
+      }
+    ]
+  },
+  "legal": {
+    "tvaNote": "TVA non applicable, art. 293 B du CGI",
+    "evinNotice": "L'abus d'alcool est dangereux pour la santé, à consommer avec modération.",
+    "ageGate": true
+  }
+}

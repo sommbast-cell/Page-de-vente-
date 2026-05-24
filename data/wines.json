@@ -1,0 +1,622 @@
+[
+  {
+    "slug": "chateau-montalbret-renaissance-2023",
+    "name": "Château de Montalbret - Renaissance",
+    "vintage": 2023,
+    "color": "rouge",
+    "appellation": "Montagne-Saint-Émilion",
+    "region": "Bordeaux",
+    "country": "France",
+    "domain": "Château de Montalbret",
+    "grapes": "Assemblage bordelais",
+    "alcohol": "13.5%",
+    "volume": "0.75L",
+    "price": 9.5,
+    "minOrder": 3,
+    "stock": 60,
+    "featured": true,
+    "image": "/images/wines/chateau-montalbret-renaissance-2023.jpg",
+    "shortDescription": "La cuvée signature du renouveau du Château de Montalbret.",
+    "story": "En 2014, l'arrivée de Morgan a marqué un tournant pour le Château de Montalbret. Jusqu'alors dédié au vrac, le domaine ne conservait que quelques bouteilles pour la famille et les amis. La Cuvée Renaissance symbolise ce renouveau : les premiers vins commercialisés, mis en bouteille pour révéler toute l'expression unique du terroir. Authentique, moderne, élégant et accessible, ce vin incarne la passion et l'audace d'une famille profondément attachée à son héritage.",
+    "tasting": {
+      "robe": "Robe rouge intense aux reflets pourpres.",
+      "nez": "Nez expressif sur les fruits noirs mûrs, la prune et de subtiles notes boisées.",
+      "bouche": "Bouche structurée, élégante et accessible, avec des tanins fondus et une belle longueur."
+    },
+    "pairings": "Viandes rouges grillées, magret de canard, plateau de fromages affinés.",
+    "keeping": "À boire ou à garder jusqu'en 2030.",
+    "awards": [],
+    "tags": [
+      "Authentique",
+      "Élégant",
+      "Accessible"
+    ]
+  },
+  {
+    "slug": "chateau-montalbret-chloe-2022",
+    "name": "Château de Montalbret - Chloé",
+    "vintage": 2022,
+    "color": "rouge",
+    "appellation": "Montagne-Saint-Émilion",
+    "region": "Bordeaux",
+    "country": "France",
+    "domain": "Château de Montalbret",
+    "grapes": "Vieilles vignes plantées en 1960",
+    "alcohol": "13.5%",
+    "volume": "0.75L",
+    "price": 13.5,
+    "minOrder": 3,
+    "stock": 36,
+    "featured": true,
+    "image": "/images/wines/chateau-montalbret-chloe-2022.jpg",
+    "shortDescription": "Tradition enracinée, esprit libre. Une cuvée rare, raffinée et féminine.",
+    "story": "En 2016, la Cuvée Chloé est née de l'envie de Morgan et de sa femme de créer un vin pour eux. Issue des plus vieilles vignes du domaine plantées en 1960, cette cuvée reflète le côté féminin, doux et élégant du terroir. Produite en quantité limitée lorsque le millésime le permet, elle raconte l'histoire et la passion d'une famille pour la vigne. Authentique, raffinée et rare.",
+    "tasting": {
+      "robe": "Robe profonde, rouge grenat aux reflets brillants.",
+      "nez": "Nez raffiné, mêlant fruits rouges confits, violette et notes épicées délicates.",
+      "bouche": "Bouche soyeuse et élégante, d'une grande finesse, portée par des tanins veloutés et une finale persistante."
+    },
+    "pairings": "Gibier à plumes, filet de bœuf en croûte, agneau de printemps, fromages de caractère.",
+    "keeping": "À boire ou à garder jusqu'en 2032.",
+    "awards": [],
+    "tags": [
+      "Vieilles vignes",
+      "Quantité limitée",
+      "Cuvée d'auteur"
+    ]
+  },
+  {
+    "slug": "primitivo-doppio-passo-2025",
+    "name": "Primitivo - Doppio Passo",
+    "vintage": 2025,
+    "color": "rouge",
+    "appellation": "Puglia IGT",
+    "region": "Pouilles",
+    "country": "Italie",
+    "domain": "Doppio Passo",
+    "grapes": "100% Primitivo",
+    "alcohol": "14.5%",
+    "volume": "0.75L",
+    "price": 8.5,
+    "minOrder": 1,
+    "stock": 120,
+    "featured": true,
+    "image": "/images/wines/primitivo-doppio-passo-2025.jpg",
+    "shortDescription": "La cuvée signature de Doppio Passo, un IGT des Pouilles typique et accessible.",
+    "story": "Doppio Passo, qui signifie « double passage », tire son nom de la méthode de vinification traditionnelle des Pouilles consistant à effectuer une seconde extraction sur les peaux pour révéler toute la générosité du Primitivo. Le résultat : un vin solaire, gourmand et immédiatement séduisant, devenu une référence mondiale du cépage.",
+    "tasting": {
+      "robe": "Robe d'une couleur rouge rubis profond.",
+      "nez": "Arômes prononcés de fruits rouges : mûres, cerises et fruits des bois.",
+      "bouche": "Doux, frais et très aromatique, avec une bouche ample et bien équilibrée."
+    },
+    "pairings": "Pizza, pâtes à la sauce tomate, charcuterie italienne, viandes grillées, fromages affinés.",
+    "keeping": "À boire et à garder jusqu'en 2030.",
+    "awards": [
+      "96/100 Luca Maroni",
+      "Médaille d'or Concours Berliner Wein Trophy 2025"
+    ],
+    "tags": [
+      "Vegan",
+      "Top 10 Puglia",
+      "Gourmand"
+    ]
+  },
+  {
+    "slug": "domaine-lathevalle-morgon-2019",
+    "name": "Morgon - Domaine Lathevalle",
+    "vintage": 2019,
+    "color": "rouge",
+    "appellation": "Morgon AOC",
+    "region": "Beaujolais",
+    "country": "France",
+    "domain": "Domaine Lathevalle",
+    "grapes": "100% Gamay",
+    "alcohol": "13%",
+    "volume": "0.75L",
+    "price": 14,
+    "minOrder": 1,
+    "stock": 48,
+    "featured": false,
+    "image": "/images/wines/domaine-lathevalle-morgon-2019.jpg",
+    "shortDescription": "Un cru du Beaujolais dans toute sa noblesse, profond et structuré.",
+    "story": "Le Morgon est l'un des dix crus du Beaujolais, réputé pour ses sols de schiste qui donnent au Gamay une profondeur et une capacité de garde inhabituelles pour la région. Le millésime 2019, salué par la critique, livre ici un vin charnu et expressif.",
+    "tasting": {
+      "robe": "Robe rouge cerise profonde et limpide.",
+      "nez": "Arômes intenses de cerise noire, kirsch et notes minérales typiques des schistes de Morgon.",
+      "bouche": "Bouche structurée, équilibrée, avec une belle matière et une finale longue sur les fruits noirs."
+    },
+    "pairings": "Volailles rôties, viandes blanches en sauce, lapin à la moutarde, fromages de caractère.",
+    "keeping": "À boire dès maintenant, peut se garder encore 2 à 3 ans.",
+    "awards": [],
+    "tags": [
+      "Cru du Beaujolais",
+      "Schistes",
+      "Profond"
+    ]
+  },
+  {
+    "slug": "brouilly-chateau-ravatys-2022",
+    "name": "Brouilly - Château des Ravatys",
+    "vintage": 2022,
+    "color": "rouge",
+    "appellation": "Brouilly AOC",
+    "region": "Beaujolais - Lyonnais",
+    "country": "France",
+    "domain": "Château des Ravatys",
+    "grapes": "100% Gamay",
+    "alcohol": "14%",
+    "volume": "0.75L",
+    "price": 12.5,
+    "minOrder": 1,
+    "stock": 60,
+    "featured": false,
+    "image": "/images/wines/brouilly-chateau-ravatys-2022.jpg",
+    "shortDescription": "Un mélange de saveurs fruitées et puissantes qui ne manque pas de charme !",
+    "story": "Le Château des Ravatys, propriété de l'Institut Pasteur depuis 1937, cultive ses vignes en agriculture raisonnée au cœur du Beaujolais. Ce Brouilly 2022 est l'expression aboutie d'un terroir granitique et d'un Gamay vinifié avec maîtrise.",
+    "tasting": {
+      "robe": "Belle robe rouge rubis et brillante.",
+      "nez": "Bouquet bien défini de fraise et de framboise.",
+      "bouche": "Bouche ample et élégante. Finition sur la fraîcheur très agréable."
+    },
+    "pairings": "Charcuterie lyonnaise, volaille, viandes blanches grillées, fromages frais.",
+    "keeping": "À boire et à garder jusqu'en 2028.",
+    "awards": [
+      "★ Guide Hachette des Vins 2025",
+      "91/100 James Suckling",
+      "91/100 Revue des Vins de France 2024"
+    ],
+    "tags": [
+      "Top 15 Beaujolais",
+      "Fruité",
+      "Puissant"
+    ]
+  },
+  {
+    "slug": "accord-parfait-pic-saint-loup-2024",
+    "name": "Accord Parfait - Pic Saint Loup",
+    "vintage": 2024,
+    "color": "rouge",
+    "appellation": "Pic-Saint-Loup AOC",
+    "region": "Languedoc-Roussillon",
+    "country": "France",
+    "domain": "Maison Chape",
+    "grapes": "40% Carignan, 30% Syrah, 30% Grenache",
+    "alcohol": "14%",
+    "volume": "0.75L",
+    "price": 12,
+    "minOrder": 1,
+    "stock": 60,
+    "featured": true,
+    "image": "/images/wines/accord-parfait-pic-saint-loup-2024.jpg",
+    "shortDescription": "LE rouge imaginé pour sublimer vos plats à base de viande rouge, avec un rapport prix-plaisir irréprochable !",
+    "story": "Côte de bœuf grillée ? Bourguignon en famille ? La cuvée Accord Parfait a été pensée comme un compagnon de table. Élégant, digeste et pulpeux avec des tanins ronds et bien intégrés, c'est le rouge à ouvrir sur le poulet fermier du dimanche en famille.",
+    "tasting": {
+      "robe": "Rouge grenat intense avec des reflets brillants.",
+      "nez": "Arômes intenses de cerise noire et de thym.",
+      "bouche": "Fraîche et généreuse avec un bel équilibre."
+    },
+    "pairings": "Côte de bœuf grillée, bourguignon, agneau aux herbes de Provence, fromages affinés.",
+    "keeping": "À boire et à garder jusqu'en 2027.",
+    "awards": [
+      "Numéro 1 Languedoc-Roussillon"
+    ],
+    "tags": [
+      "Exclusivité",
+      "Nouveau millésime",
+      "Charnu"
+    ]
+  },
+  {
+    "slug": "volnay-maison-patriarche-2017",
+    "name": "Volnay - Maison Patriarche",
+    "vintage": 2017,
+    "color": "rouge",
+    "appellation": "Volnay AOC",
+    "region": "Bourgogne",
+    "country": "France",
+    "domain": "Maison Patriarche",
+    "grapes": "100% Pinot Noir",
+    "alcohol": "13.5%",
+    "volume": "0.75L",
+    "price": 24.5,
+    "minOrder": 1,
+    "stock": 24,
+    "featured": true,
+    "image": "/images/wines/volnay-maison-patriarche-2017.jpg",
+    "shortDescription": "Redécouvrez le Pinot Noir à travers ce Volnay qui incarne l'authenticité de son terroir et la tradition bourguignonne !",
+    "story": "Très ancienne maison bourguignonne fondée en 1780, Patriarche possède les plus grandes caves de Bourgogne. Volnay est perché sur la Côte de Beaune, et offre des Pinot Noirs d'une finesse remarquable. Le 2017 est un millésime exceptionnel, doux, rond, aux arômes extraordinaires.",
+    "tasting": {
+      "robe": "Robe rouge rubis avec des reflets, limpide et brillante.",
+      "nez": "Notes animales, fourrure et gibier, notes de sous-bois et de petits fruits rouges confits.",
+      "bouche": "Tanins dentelles typiques, beau volume, rond en bouche."
+    },
+    "pairings": "Coq au vin, gibier à plumes, viandes rouges en sauce, fromages affinés type Époisses.",
+    "keeping": "À boire et à garder jusqu'en 2028.",
+    "awards": [
+      "Top 10 Bourgogne",
+      "17/20 Avis clients"
+    ],
+    "tags": [
+      "Grand vin",
+      "Millésime exceptionnel",
+      "Bourgogne"
+    ]
+  },
+  {
+    "slug": "pieds-dans-leau-alma-cersius-2025",
+    "name": "Les Pieds dans l'Eau - Alma Cersius",
+    "vintage": 2025,
+    "color": "rose",
+    "appellation": "Languedoc IGP",
+    "region": "Languedoc-Roussillon",
+    "country": "France",
+    "domain": "Alma Cersius",
+    "grapes": "Assemblage méditerranéen",
+    "alcohol": "12.5%",
+    "volume": "0.75L",
+    "price": 7.5,
+    "minOrder": 1,
+    "stock": 96,
+    "featured": false,
+    "image": "/images/wines/pieds-dans-leau-alma-cersius-2025.jpg",
+    "shortDescription": "Un rosé estival, frais et acidulé, à savourer les pieds dans l'eau.",
+    "story": "Les Pieds dans l'Eau évoque tout un programme : un rosé pensé pour les apéritifs entre amis, les déjeuners en terrasse et les longues soirées d'été. Léger, gourmand, à boire bien frais.",
+    "tasting": {
+      "robe": "Robe rose pâle aux reflets pêche.",
+      "nez": "Nez fruité sur les agrumes, la pêche blanche et les fruits rouges.",
+      "bouche": "Bouche vive et désaltérante, fraîche, sur la fraise et le pamplemousse, finale légèrement acidulée."
+    },
+    "pairings": "Apéritif, salades estivales, grillades, cuisine méditerranéenne.",
+    "keeping": "À boire dans l'année.",
+    "awards": [],
+    "tags": [
+      "Été",
+      "Apéritif",
+      "Rapport qualité-prix"
+    ]
+  },
+  {
+    "slug": "sainte-croix-rose-2025",
+    "name": "Sainte Croix - Rosé",
+    "vintage": 2025,
+    "color": "rose",
+    "appellation": "Var IGP",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "France",
+    "domain": "Château Sainte Croix",
+    "grapes": "60% Grenache, 20% Merlot, 20% Syrah",
+    "alcohol": "12.5%",
+    "volume": "0.75L",
+    "price": 7.5,
+    "minOrder": 1,
+    "stock": 96,
+    "featured": true,
+    "image": "/images/wines/sainte-croix-rose-2025.jpg",
+    "shortDescription": "Un éclat de fraîcheur et d'élégance. Certifié Agriculture Biologique.",
+    "story": "Le Château Sainte Croix cultive ses vignes en agriculture biologique au cœur du Var. Ce rosé d'apéritif, à la robe litchi pâle, est l'expression typique de la Provence : finesse, fraîcheur et élégance, dans une bouteille engagée.",
+    "tasting": {
+      "robe": "Robe litchi pâle.",
+      "nez": "Nez à dominante fruitée sans exubérance sur des notes de pêche blanche, de groseille ponctué d'une nuance de bonbon anglais.",
+      "bouche": "Bouche fraîche, tendre rappelant la meringue sur fond de fruits jaunes."
+    },
+    "pairings": "Apéritif, tapas, salades, poissons grillés, cuisine asiatique légère.",
+    "keeping": "À boire dans les 2 ans.",
+    "awards": [
+      "Top 5 Provence-Alpes-Côte d'Azur",
+      "Médaille d'argent Concours Challenge Millésime Bio 2026",
+      "Médaille de bronze Concours Général Agricole de Paris 2026"
+    ],
+    "tags": [
+      "Bio",
+      "AB",
+      "Eurofeuille",
+      "Provence"
+    ]
+  },
+  {
+    "slug": "magnum-m-minuty-rose-2025",
+    "name": "Magnum M de Minuty - Rosé",
+    "vintage": 2025,
+    "color": "rose",
+    "appellation": "Côtes de Provence AOP",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "France",
+    "domain": "Château Minuty",
+    "grapes": "Grenache, Syrah, Cinsault, Tibouren",
+    "alcohol": "12.5%",
+    "volume": "1.5L (Magnum)",
+    "price": 29.5,
+    "minOrder": 1,
+    "stock": 18,
+    "featured": true,
+    "image": "/images/wines/magnum-m-minuty-rose-2025.jpg",
+    "shortDescription": "L'élégance d'un rosé iconique en format magnum. L'incontournable des belles tablées d'été.",
+    "story": "M de Minuty est devenu l'un des rosés les plus iconiques de Provence, reconnu mondialement pour sa pureté aromatique et son équilibre. Le format magnum sublime ce vin de partage : à ouvrir pour les grandes occasions, les déjeuners au soleil et les soirées qui s'étirent.",
+    "tasting": {
+      "robe": "Robe légère et brillante.",
+      "nez": "Nez très intense d'arômes gourmands d'écorces d'orange et de groseille.",
+      "bouche": "Bouche souple avec une belle fraîcheur acidulée."
+    },
+    "pairings": "Carpaccio de poisson, salades méditerranéennes, grillades de viandes blanches, crustacés.",
+    "keeping": "À boire dans les 2 ans.",
+    "awards": [
+      "Top 5 Côtes de Provence"
+    ],
+    "tags": [
+      "Magnum",
+      "Iconique",
+      "Provence",
+      "Format partage"
+    ]
+  },
+  {
+    "slug": "talent-achille-chenin-blanc",
+    "name": "Le Talent d'Achille - Chenin Blanc",
+    "vintage": 2024,
+    "color": "blanc",
+    "appellation": "Val de Loire IGP",
+    "region": "Loire",
+    "country": "France",
+    "domain": "Le Talent d'Achille",
+    "grapes": "100% Chenin Blanc",
+    "alcohol": "12.5%",
+    "volume": "0.75L",
+    "price": 8.5,
+    "minOrder": 1,
+    "stock": 60,
+    "featured": false,
+    "image": "/images/wines/talent-achille-chenin-blanc.jpg",
+    "shortDescription": "L'expression sincère du Chenin de Loire, sec, vif et minéral.",
+    "story": "Cépage emblématique de la Loire, le Chenin Blanc exprime ici toute sa typicité : une tension minérale, des notes de fruits à chair blanche et une bouche élancée. Un blanc gastronomique au prix doux.",
+    "tasting": {
+      "robe": "Robe jaune pâle aux reflets verts.",
+      "nez": "Nez délicat sur la poire, la pomme verte et de subtiles notes florales.",
+      "bouche": "Bouche sèche et vive, équilibrée, avec une finale minérale rafraîchissante."
+    },
+    "pairings": "Fruits de mer, poissons grillés, fromages de chèvre frais, cuisine asiatique.",
+    "keeping": "À boire dans les 2 ans.",
+    "awards": [],
+    "tags": [
+      "Loire",
+      "Chenin",
+      "Minéral"
+    ]
+  },
+  {
+    "slug": "pinot-gris-hubert-meyer-2023",
+    "name": "Pinot Gris - Hubert Meyer",
+    "vintage": 2023,
+    "color": "blanc",
+    "appellation": "Alsace Pinot Gris AOC",
+    "region": "Alsace",
+    "country": "France",
+    "domain": "Hubert Meyer & Fils",
+    "grapes": "100% Pinot Gris",
+    "alcohol": "13%",
+    "volume": "0.75L",
+    "price": 10,
+    "minOrder": 1,
+    "stock": 60,
+    "featured": true,
+    "image": "/images/wines/pinot-gris-hubert-meyer-2023.jpg",
+    "shortDescription": "Un mini prix pour un immense plaisir ! Certifié Bio et Haute Valeur Environnementale.",
+    "story": "Le domaine Hubert Meyer & Fils, en agriculture biologique et HVE, produit ici un Pinot Gris d'Alsace fidèle à la tradition : généreux, légèrement moelleux, d'une grande longueur en bouche. Une cuvée qui fait honneur à ce cépage difficile et délicat.",
+    "tasting": {
+      "robe": "Couleur jaune intense.",
+      "nez": "Notes fruitées, florales et épicées.",
+      "bouche": "Opulence, rondeur, longueur en bouche. Style demi-sec, moelleux et liquoreux."
+    },
+    "pairings": "Foie gras, choucroute royale, volailles aux fruits, fromages à pâte persillée, desserts aux fruits.",
+    "keeping": "À boire dans les 2 ans.",
+    "awards": [
+      "Top 5 Alsace",
+      "Médaille d'or Concours des vins d'Alsace de Colmar 2024"
+    ],
+    "tags": [
+      "Bio",
+      "AB",
+      "Eurofeuille",
+      "HVE",
+      "Demi-sec"
+    ]
+  },
+  {
+    "slug": "chardonnay-grande-reserve-maison-castel-2024",
+    "name": "Chardonnay - Grande Réserve - Maison Castel",
+    "vintage": 2024,
+    "color": "blanc",
+    "appellation": "Pays d'Oc IGP",
+    "region": "Languedoc-Roussillon",
+    "country": "France",
+    "domain": "Maison Castel",
+    "grapes": "100% Chardonnay",
+    "alcohol": "13%",
+    "volume": "0.75L",
+    "price": 7,
+    "minOrder": 1,
+    "stock": 120,
+    "featured": true,
+    "image": "/images/wines/chardonnay-grande-reserve-maison-castel-2024.jpg",
+    "shortDescription": "Le savoir-faire de la Maison Castel à l'œuvre : une maîtrise parfaite des qualités !",
+    "story": "Numéro 1 des Pays d'Oc, ce Chardonnay Grande Réserve illustre le savoir-faire de la Maison Castel. Issu de la démarche Terra Vitis, il offre un excellent rapport qualité-prix et séduit aussi bien les amateurs que les fins palais.",
+    "tasting": {
+      "robe": "Robe jaune aux reflets verts.",
+      "nez": "Intense et complexe, aux arômes de fruits exotiques.",
+      "bouche": "Généreuse et fraîche, on retrouve les notes de fruits exotiques mais aussi des notes de vanille et de brioche."
+    },
+    "pairings": "Apéritif, poissons grillés, volailles à la crème, fromages à pâte molle.",
+    "keeping": "À boire dans les 2 ans.",
+    "awards": [
+      "Numéro 1 Pays d'Oc",
+      "Médaille d'argent Vinalies Nationales 2025"
+    ],
+    "tags": [
+      "Terra Vitis",
+      "Best-seller",
+      "Fruité"
+    ]
+  },
+  {
+    "slug": "pouilly-fuisse-la-greffiere-2023",
+    "name": "Pouilly-Fuissé - Signature - La Greffière",
+    "vintage": 2023,
+    "color": "blanc",
+    "appellation": "Pouilly-Fuissé AOC",
+    "region": "Bourgogne",
+    "country": "France",
+    "domain": "Château de la Greffière",
+    "grapes": "100% Chardonnay",
+    "alcohol": "13%",
+    "volume": "0.75L",
+    "price": 22,
+    "minOrder": 1,
+    "stock": 36,
+    "featured": true,
+    "image": "/images/wines/pouilly-fuisse-la-greffiere-2023.jpg",
+    "shortDescription": "Un Pouilly-Fuissé rayonnant et précis, entre fruit mûr, tension minérale et éclat gourmand.",
+    "story": "Le Château de la Greffière, certifié Haute Valeur Environnementale, signe ici un Pouilly-Fuissé d'exception. Médaille d'or au Concours Général Agricole de Paris et noté 90/100 par Decanter, cette cuvée Signature est l'expression aboutie du grand Chardonnay bourguignon.",
+    "tasting": {
+      "robe": "Or jaune intense.",
+      "nez": "Arômes de fruits à chair blanche et de miel.",
+      "bouche": "Le vin est rond et généreux, minéral et fruité."
+    },
+    "pairings": "Poissons fins, fruits de mer, volailles à la crème, fromages pâtes cuites (Comté, Beaufort), apéritif gastronomique.",
+    "keeping": "À boire et à garder jusqu'en 2031.",
+    "awards": [
+      "Top 5 Bourgogne",
+      "Médaille d'or Concours Général Agricole de Paris",
+      "90/100 Decanter",
+      "HVE - Haute Valeur Environnementale"
+    ],
+    "tags": [
+      "Grand vin",
+      "HVE",
+      "Bourgogne",
+      "Médaille d'or"
+    ]
+  },
+  {
+    "slug": "prosecco-extra-dry-fossili-2024",
+    "name": "Prosecco Extra Dry - I Fossili - Cantina Colli Euganei",
+    "vintage": 2024,
+    "color": "effervescent",
+    "appellation": "Prosecco DOC",
+    "region": "Vénétie",
+    "country": "Italie",
+    "domain": "Cantina Colli Euganei",
+    "grapes": "100% Glera",
+    "alcohol": "11%",
+    "volume": "0.75L",
+    "price": 12,
+    "minOrder": 1,
+    "stock": 60,
+    "featured": true,
+    "image": "/images/wines/prosecco-extra-dry-fossili-2024.jpg",
+    "shortDescription": "Un vrai coup de cœur pour ce Prosecco et la finesse de ses bulles… à prix très doux !",
+    "story": "La Cantina Colli Euganei signe ici un Prosecco Extra Dry primé internationalement. Notée 90/100 par Decanter et médaillée d'or à Bruxelles, cette cuvée I Fossili offre des bulles fines et une fraîcheur immédiate. Le pétillant parfait pour célébrer ou trinquer.",
+    "tasting": {
+      "robe": "Jaune paille brillante.",
+      "nez": "Notes fruitées.",
+      "bouche": "Vin pétillant légèrement sucré aux bulles très fines."
+    },
+    "pairings": "Apéritif, fruits de mer, antipasti italiens, desserts fruités, sushis.",
+    "keeping": "À boire dans les 2 ans.",
+    "awards": [
+      "Top 5 Effervescent Italie",
+      "90/100 Decanter",
+      "Médaille d'argent Mundus Vini 2024",
+      "Médaille d'or Concours Mondial de Bruxelles 2024"
+    ],
+    "tags": [
+      "Bulles",
+      "Italie",
+      "Prosecco",
+      "Festif"
+    ]
+  },
+  {
+    "slug": "pack-6-blancs-bio",
+    "name": "Pack 6 Blancs - 100% Bio",
+    "vintage": 2024,
+    "color": "pack",
+    "appellation": "Sélection multi-régions",
+    "region": "France & Italie",
+    "country": "Sélection",
+    "domain": "Assortiment",
+    "grapes": "Chardonnay, Grillo, Riesling, Viognier, Sauvignon, Manseng",
+    "alcohol": "12-13%",
+    "volume": "6 x 0.75L",
+    "price": 55,
+    "minOrder": 1,
+    "stock": 12,
+    "featured": false,
+    "image": "/images/wines/pack-6-blancs-bio.jpg",
+    "shortDescription": "Savourez l'authenticité avec notre pack de 6 bouteilles de vins blancs bio !",
+    "story": "Un assortiment élégant et respectueux de l'environnement. Chaque bouteille offre une fraîcheur incomparable, des arômes floraux et fruités, parfaits pour sublimer vos repas légers ou vos apéritifs. Issus de viticulture biologique, ces vins raffinés garantissent une dégustation pure et naturelle. Un choix idéal pour les amateurs de vins authentiques et écoresponsables.",
+    "tasting": {
+      "robe": "6 vins blancs aux profils variés.",
+      "nez": "Arômes floraux et fruités, du plus frais au plus engagé.",
+      "bouche": "De la fraîcheur en passant par la rondeur, chaque verre invite à s'arrêter."
+    },
+    "pairings": "Apéritifs, repas légers, poissons, fromages.",
+    "keeping": "À boire dans les 2 ans.",
+    "awards": [
+      "Médaille d'or IWS - International Wine & Spirits Awards",
+      "90/100 Andreas Larsson",
+      "16/20 Jancis Robinson"
+    ],
+    "composition": [
+      "1 x Miral - Grillo Sicilia 2024 - Cantine Fina",
+      "1 x Chardonnay - Parcelles 2025 - Réthoré Davy",
+      "1 x Pas Vu Pas Pris 2024 - Jeff Carrel",
+      "1 x N°24 - Uby Bio Blanc Doux 2024 - UBY",
+      "1 x Riesling 2024 - Sophie Schaal",
+      "1 x Viognier - La Combe Pilate 2024 - M. Chapoutier"
+    ],
+    "tags": [
+      "Bio",
+      "Pack 6 bouteilles",
+      "Découverte"
+    ]
+  },
+  {
+    "slug": "pack-special-domaine-tariquet",
+    "name": "Pack Spécial Domaine Tariquet",
+    "vintage": 2025,
+    "color": "pack",
+    "appellation": "Sud-Ouest",
+    "region": "Sud-Ouest",
+    "country": "France",
+    "domain": "Domaine Tariquet",
+    "grapes": "Sélection 6 cuvées Tariquet",
+    "alcohol": "11-13%",
+    "volume": "6 x 0.75L (4.5L)",
+    "price": 49,
+    "minOrder": 1,
+    "stock": 18,
+    "featured": false,
+    "image": "/images/wines/pack-special-domaine-tariquet.jpg",
+    "shortDescription": "Un formidable panachage de 6 cuvées différentes du Domaine Tariquet d'exception !",
+    "story": "Qui n'a jamais succombé aux charmes du Domaine Tariquet ? C'est un véritable patrimoine de la Région Sud-Ouest, qui offre un goût et une histoire remarquables dans chacune de ses cuvées. Le Pack Spécial réunit 6 cuvées différentes qui vous permettront d'apprécier ce Domaine d'exception.",
+    "tasting": {
+      "robe": "Panachage de couleurs : blancs, rosé, rouge.",
+      "nez": "Variété d'arômes selon les cuvées.",
+      "bouche": "Le côté fruité avec une pointe d'effervescence pour les Premières Grives est très agréable."
+    },
+    "pairings": "Apéritifs entre copains, repas variés selon les cuvées.",
+    "keeping": "À boire dans l'année.",
+    "awards": [],
+    "composition": [
+      "1 x Classic 2025 - Domaine Tariquet",
+      "1 x Saint-Amand Le Rosé 2025 - Domaine Tariquet",
+      "1 x Saint-Amand Le Rouge 2025 - Domaine Tariquet",
+      "1 x Saint-Amand Le Blanc 2025 - Domaine Tariquet",
+      "2 x Premières Grives 2025 - Domaine Tariquet"
+    ],
+    "tags": [
+      "Pack 6 bouteilles",
+      "Découverte",
+      "Sud-Ouest"
+    ]
+  }
+]

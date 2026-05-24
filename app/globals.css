@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #FAFAFA;
+  color: #0A0A0A;
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6, .font-display {
+  font-family: var(--font-display);
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+/* Scrollbar discrète */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FAFAFA;
+}
+::-webkit-scrollbar-thumb {
+  background: #D4D1CB;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #0A0A0A;
+}
+
+/* Animation au chargement */
+.fade-in-up {
+  animation: fadeInUp 0.8s ease-out backwards;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Bouton primaire */
+.btn-primary {
+  @apply inline-flex items-center justify-center px-8 py-4 bg-ink text-paper uppercase tracking-widest text-xs font-medium transition-all hover:bg-accent;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center justify-center px-8 py-4 border border-ink text-ink uppercase tracking-widest text-xs font-medium transition-all hover:bg-ink hover:text-paper;
+}
+
+.btn-ghost {
+  @apply inline-flex items-center justify-center px-4 py-2 text-ink uppercase tracking-widest text-xs font-medium transition-all hover:opacity-60;
+}
+
+/* Numeric input */
+.qty-input {
+  @apply w-16 text-center border border-stone bg-paper py-2 font-display text-lg;
+}
+
+/* Skeleton placeholder pour bouteilles */
+.bottle-placeholder {
+  background: linear-gradient(180deg, #F4F2EE 0%, #E8E5DF 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.bottle-placeholder::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at center top, rgba(255,255,255,0.4) 0%, transparent 60%),
+    linear-gradient(180deg, transparent 0%, rgba(0,0,0,0.05) 100%);
+  pointer-events: none;
+}
