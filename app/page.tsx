@@ -55,7 +55,6 @@ export default function HomePage() {
           {[
             { value: totalWines.toString(), label: 'cuvées sélectionnées' },
             { value: '5 €', label: 'livraison Vallée de l\'Arve' },
-            { value: '48 h', label: 'validation commande' },
             { value: '3D Secure', label: 'paiement sécurisé' },
           ].map((stat) => (
             <div key={stat.label}>
