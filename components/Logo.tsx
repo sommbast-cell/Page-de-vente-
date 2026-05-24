@@ -7,7 +7,7 @@ export default function Logo({ className = '' }: { className?: string }) {
         Epicurios <span className="italic">Wine</span>
       </span>
       <span className="text-[0.55rem] uppercase tracking-[0.3em] mt-1 opacity-70 group-hover:opacity-100 transition-opacity">
-        Le Club · Vente Privée 2026
+        Le Club · Juin 2026
       </span>
     </Link>
   );

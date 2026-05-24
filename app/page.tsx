@@ -30,7 +30,7 @@ export default function HomePage() {
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl leading-[0.95] mb-8">
             Une vente privée.
             <br />
-            <span className="italic">{totalWines} grands vins.</span>
+            <span className="italic">La sélection du mois.</span>
           </h1>
           <p className="text-base md:text-lg text-ink/70 max-w-2xl mx-auto leading-relaxed mb-10">
             Bordeaux, Bourgogne, Provence, Beaujolais, Alsace, Languedoc, Italie. Une sélection serrée,
