@@ -17,12 +17,12 @@ export default function SaleBanner() {
       setStatus(getSaleStatus());
 
       const end = new Date(siteConfig.sale.endDate).getTime();
-      const start = new Date(siteConfig.sale.startDate).getTime();
+      
       const now = Date.now();
 
       // Si la vente est à venir, on affiche le temps avant l'ouverture
       // Si la vente est en cours, on affiche le temps avant la clôture
-      const target = now < start ? start : end;
+      const target = end;
       const diff = target - now;
 
       if (diff > 0) {
@@ -41,7 +41,7 @@ export default function SaleBanner() {
   if (!mounted) {
     return (
       <div className="bg-ink text-paper py-3 px-6 text-center text-xs uppercase tracking-[0.2em]">
-        Vente privée · Du {formatDateTime(siteConfig.sale.startDate)} au {formatDateTime(siteConfig.sale.endDate)}
+        Vente en cours · Clôture le {formatDateTime(siteConfig.sale.endDate)}
       </div>
     );
   }

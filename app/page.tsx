@@ -25,7 +25,7 @@ export default function HomePage() {
 
         <div className="relative max-w-4xl text-center fade-in-up">
           <p className="text-xs uppercase tracking-[0.4em] mb-6 text-ink/60">
-            Du {formatDateTime(siteConfig.sale.startDate).split(' à')[0]} au {formatDateTime(siteConfig.sale.endDate)}
+            Clôture le {formatDateTime(siteConfig.sale.endDate)}
           </p>
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl leading-[0.95] mb-8">
             Une vente privée.
