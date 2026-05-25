@@ -61,7 +61,7 @@ export default async function WinePage({ params }: Props) {
       <div className="max-w-7xl mx-auto px-6 md:px-10 pb-16">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-20">
           {/* IMAGE */}
-          <div className="bg-cream/40 aspect-square lg:aspect-[4/5] flex items-center justify-center sticky top-32 self-start overflow-hidden">
+          <div className="bg-cream/40 aspect-square lg:aspect-[4/5] flex items-center justify-center md:sticky md:top-32 md:self-start overflow-hidden">
             {hasRealPhoto ? (
               <Image
                 src={`/images/wines/${wine.slug}.jpg`}
