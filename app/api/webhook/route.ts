@@ -15,7 +15,7 @@ async function sendBrevoEmail(to: string, subject: string, html: string) {
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      sender: { name: 'Cave Arve', email: 'agence.epicurios@outlook.com' },
+      sender: { name: 'Epicurios Wine', email: 'agence.epicurios@outlook.com' },
       to: [{ email: to }],
       subject,
       htmlContent: html,
@@ -75,7 +75,7 @@ export async function POST(req: Request) {
       if (customerEmail) {
         await sendBrevoEmail(
           customerEmail,
-          'Confirmation de votre commande — Cave Arve',
+          'Confirmation de votre commande — Epicurios Wine',
           `<div style="font-family:Georgia,serif;max-width:600px;margin:0 auto;color:#0A0A0A;">
             <h1 style="font-size:28px;font-weight:500;">Merci pour votre commande</h1>
             <p>Bonjour ${firstName || customerName},</p>
