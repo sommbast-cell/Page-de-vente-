@@ -14,7 +14,7 @@
     "facebook": ""
   },
   "sale": {
-    "startDate": "2026-05-27T00:00:00+02:00",
+    "startDate": "2026-01-01T00:00:00+02:00",
     "endDate": "2026-06-05T19:00:00+02:00",
     "validationDelay": "après la clôture de la vente (5 juin 2026)",
     "deliveryDelay": "5 à 10 jours ouvrés à partir du 7 juin 2026",
